@@ -1,1 +1,2 @@
-# self-supervised_network
+# A Self-supervised CNN for Particle Inspection on Optical Element
+The code and data will be uploaded soon...
